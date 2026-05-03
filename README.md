@@ -1,6 +1,6 @@
 # Thiết kế và Triển khai Hệ thống Mạng Doanh nghiệp Đa tầng
 
-> **Dự án Kỹ thuật - Đạt kết quả đánh giá 9.0/10**
+> **Đạt kết quả đánh giá 9.0/10.Các bạn tham khảo nếu sai thi phản hồi cho mình với nha**
 > Triển khai mô phỏng hạ tầng mạng hiện đại trên Cisco Packet Tracer, tập trung vào tính bảo mật và khả năng mở rộng.
 
 ##  Mục tiêu Dự án
